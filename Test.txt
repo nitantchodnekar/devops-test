@@ -1,2 +1,2 @@
-Hey! This is Git
+Hey! This is Git demo
 
