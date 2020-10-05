@@ -1,1 +1,1 @@
-Hello! This is Git test
+Heya! This is Git test
